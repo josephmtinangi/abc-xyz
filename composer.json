@@ -1,4 +1,6 @@
 {
+    "name": "josephmtinangi/abc-xyz",
+    "description": "Get statistics of your text",
     "require": {
         "phpunit/phpunit": "^6.3"
     },
